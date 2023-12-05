@@ -1,0 +1,25 @@
+<meta charset="UTF-8">
+<script>
+   function pulaLinha() {
+      document.write('<br>');
+      document.write('<br>');
+   }
+
+   function mostra(frase) {
+      document.write(frase);
+      pulaLinha();
+   }
+
+   let tabuada = parseInt(prompt('Digite um número de 0 a 10: '))
+
+   if (isNaN(tabuada)) {
+      alert('Digite um núnero valido! ')
+      tabuada = parseInt(prompt('Digite um número de 0 a 10: '))
+   }
+
+   for (let multiplicador = 1; multiplicador <= 10; multiplicador++) {
+      mostra(tabuada + ' + ' + multiplicador + ' = ' + tabuada * multiplicador)
+   }
+
+   mostra('FIM!!!')
+</script>

@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Pós Tech: DATA ANALYTICS e CYBER SECURITY | FIAP e Alura",
+      "descricao": "18 mil visualizações",
+      "url": "https://www.youtube.com/embed/5IKRs1KsDi0",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Faculdade de ENGENHARIA de SOFTWARE: o que faz? Vale a pena?",
+      "descricao": "36 mil visualizações",
+      "url": "https://www.youtube.com/embed/JJliG_kKe9A",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Faculdade de JOGOS DIGITAIS: o que estuda e como é o curso? Vale a pena?",
+      "descricao": "52 mil visualizações",
+      "url": "https://www.youtube.com/embed/RXrj9XC7U_w",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Dark Patterns #AluraMais",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/GswlRSFC8x8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "As 9 Softskills mais desejadas pelas empresas #AluraMais",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/imTUTl2sCW4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "CURSO de Ciência de Dados: o que é, o que estuda e tudo sobre a graduação",
+      "descricao": "57 mil visualizações",
+      "url": "https://www.youtube.com/embed/yvYSxiym3Lk",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Saiba tudo sobre o CURSO de Segurança da Informação e Defesa Cibernética",
+      "descricao": "29 mil visualizações",
+      "url": "https://www.youtube.com/embed/hyCqFs2AHSE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "Escolha de carreira: trajetória até a decisão por se tornar Dev | Giulia Silveira",
+      "descricao": "101 mil visualizações",
+      "url": "https://www.youtube.com/embed/6Gmlvh76pRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "CURSO de Inteligência Artificial | #HipstersPontoTube",
+      "descricao": "58 mil visualizações",
+      "url": "https://www.youtube.com/embed/huNvfkS5Dus",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "O poder da educação e da diversidade na área Tech | Roger Achi",
+      "descricao": "14 mil visualizações",
+      "url": "https://www.youtube.com/embed/-Ue_I6_qZOI",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "CURSO de Análise e Desenvolvimento de Sistemas | #HipstersPontoTube",
+      "descricao": "39 mil visualizações",
+      "url": "https://www.youtube.com/embed/6GjEEeyfq_0",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Carreira em front-end: uma apaixonada por games que se tornou dev | Natália Francisco",
+      "descricao": "29 mil visualizações",
+      "url": "https://www.youtube.com/embed/mCHS_2NR-Uc",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "CURSO de Sistemas de Informação | #HipstersPontoTube",
+      "descricao": "15 mil visualizações",
+      "url": "https://www.youtube.com/embed/997TdPpcajo",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "De jovem aprendiz a Desenvolvedor Web | Jean Matias",
+      "descricao": "3 mil vizualizações",
+      "url": "https://www.youtube.com/embed/hmiM3gfFGGw",
+      "imagem": "https://i.ytimg.com/vi/hmiM3gfFGGw/maxresdefault.jpg",
+      "id": 14
+    }
+  ]
+}
