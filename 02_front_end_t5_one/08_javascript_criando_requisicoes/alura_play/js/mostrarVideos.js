@@ -18,7 +18,7 @@ export default function constroiCard(titulo, descricao, url, imagem) {
         </div>
     </li>
     `
-
+    
     return video
 }
 
